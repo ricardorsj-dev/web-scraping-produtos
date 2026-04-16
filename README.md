@@ -1,5 +1,7 @@
 # 🕷️ Web Scraping de Produtos com Python
 
+<img width="1024" height="1024" alt="553b661b-3214-45f2-b98d-4d7812e4cf19" src="https://github.com/user-attachments/assets/9114e12e-9b64-4a01-85d7-2dcce8cdd89d" />
+
 Projeto desenvolvido para automatizar a coleta de dados de produtos de um site utilizando Selenium.
 
 ## 🚀 Funcionalidades
@@ -24,4 +26,4 @@ Projeto desenvolvido para automatizar a coleta de dados de produtos de um site u
 
 ```bash
 pip install -r requirements.txt
-python src/scraper.py<img width="1024" height="1024" alt="553b661b-3214-45f2-b98d-4d7812e4cf19" src="https://github.com/user-attachments/assets/9114e12e-9b64-4a01-85d7-2dcce8cdd89d" />
+python src/scraper.py
